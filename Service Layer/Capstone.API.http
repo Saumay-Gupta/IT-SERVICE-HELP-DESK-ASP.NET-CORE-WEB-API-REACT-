@@ -1,0 +1,6 @@
+@Capstone.API_HostAddress = https://localhost:5193
+
+GET {{Capstone.API_HostAddress}}/ITSRPAPI/
+Accept: application/json
+
+###
